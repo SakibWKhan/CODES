@@ -1,0 +1,19 @@
+IMPT- Import prop types
+! - to get a html template
+PTS -Proptype.string
+rfc -react function bsed component
+b74462e329bc4037b362c98669768190 api key
+
+Constructor() runs first then the buttons which we created through props runs second then the component Didmount()runs
+
+async:- asyn can wait in its body until all the promises gets resolved 
+
+{!author?"Unknown":author} -newsitems
+
+
+   Date={element.publishedAt} - news.js
+es7
+prettier
+auto rename tag
+live server
+
